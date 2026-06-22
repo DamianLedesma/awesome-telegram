@@ -10,6 +10,24 @@ ways to help, with consent-first sharing at its core.
 
 ---
 
+## 🚀 Launch the live demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDamianLedesma%2Fawesome-telegram&root-directory=alongside&project-name=alongside&repository-name=alongside)
+
+This repo lives in a subdirectory, so set **Root Directory** when importing:
+
+1. Go to **[vercel.com/new](https://vercel.com/new)** and import `DamianLedesma/awesome-telegram`
+   (use the branch `claude/menstrual-partner-app-vx76ck`).
+2. **Set _Root Directory_ to `alongside`** — this is the one setting that matters.
+3. Leave the rest on defaults (Vercel auto-detects Next.js via `vercel.json`) and **Deploy**.
+
+You'll get a public `https://<project>.vercel.app` link in ~2 minutes. Free tier is plenty.
+
+> The one-click button above clones the repo into your own account; the manual steps
+> deploy this repo directly. Either works.
+
+---
+
 ## Why this app
 
 The market for period trackers is crowded (Clue, Flo, Stardust). The market for
